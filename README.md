@@ -17,4 +17,15 @@ Russian - C2<br>
 English - A2
 
 ## Technologies 🛠
-**HTML, CSS, SASS, JavaScript, TypeScript, React, JSX, Vite, Redux Toolkit, NPM, RestAPI, FL Studio**
+<div style="display: flex">
+  <img src="https://github.com/BerezkinDev/assets/blob/main/HtmlICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/CssICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/SassICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/JavaScriptICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/TypeScriptICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/ReactICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/ViteICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/NpmICON.png?raw=true"/>
+  <img src="https://github.com/BerezkinDev/assets/blob/main/ReduxICON.png?raw=true"/>
+</div>
+
