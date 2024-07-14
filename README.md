@@ -2,14 +2,14 @@
 
 # Hi 👋
 
-I'm **Andrei** **Ustinov** **Yurievich** *aka* **BerezkinDev** *aka* **Bassmode** <br>
+I'm **Andrei** **Berezkin/Ustinov** **Yurievich** *aka* **DROPFiRE**<br>
 **React Frontend Developer**🔮 *and* **Music Producer**🎶 from Krasnodar
 
 Currently I'm looking for a remote job. I'm ready to take on new interesting projects.
 
 Socials and Contact<br>
-[YouTube](https://www.youtube.com/channel/UCAUipi1OKLKgy5jpGxSpxLA)<br>
-[Telegram](https://t.me/SodaJeansParty)<br>
+[YouTube](https://www.youtube.com/@dropfireoff)<br>
+[Telegram](https://t.me/dropfireoff)<br>
 [berezkindev@gmail.com](mailto:berezkindev@gmail.com)
 
 ## Languages
@@ -17,15 +17,5 @@ Russian - C2<br>
 English - A2
 
 ## Technologies 🛠
-<div style="display: flex">
-  <img src="https://github.com/BerezkinDev/assets/blob/main/HtmlICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/CssICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/SassICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/JavaScriptICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/TypeScriptICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/ReactICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/ViteICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/NpmICON.png?raw=true"/>
-  <img src="https://github.com/BerezkinDev/assets/blob/main/ReduxICON.png?raw=true"/>
-</div>
+HTML, CSS, Tailwind, JavaScript, TypeScript, React, Vite, NPM, Git, Rest API, Redux Toolkit
 
